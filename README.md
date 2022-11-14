@@ -1,4 +1,5 @@
 # FireBaseAuthPractice
+# 이메일/비밀번호 로그인과 구글로그인 구현
 
 <img width="552" alt="스크린샷 2022-11-14 오후 8 57 12" src="https://user-images.githubusercontent.com/81414937/201654487-f30789d3-319a-40e8-9b6a-c4b5989e5345.png">
 
